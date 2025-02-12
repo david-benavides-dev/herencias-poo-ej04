@@ -1,4 +1,4 @@
-### Ejercicio 4 Sistema de Notificación
+### Ejercicio 04 Sistema de Notificación
 
 Diseña una interfaz `Notificable` con un método `enviarNotificacion()`. Implementa esta interfaz en clases como `CorreoElectronico`, `MensajeTexto`, y `NotificacionPush`. Cada clase debe tener una implementación específica de `enviarNotificacion()`, simula el envío de la notificación a través del canal apropiado.
 
